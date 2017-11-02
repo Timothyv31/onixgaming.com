@@ -1,0 +1,46 @@
+
+    .intro {color:lawngreen;
+    background-color:black;
+    font-family:courier;
+    text-align:left;
+    width:85%;
+    border:10px dotted maroon;
+    padding:20px;
+    margin:10px;
+   
+     
+    }
+    div {
+      color:slateblue;}
+      .header{
+        color:midnightblue;
+        font-size:60px;
+        font-family:verdana;
+        
+    }
+    
+      body {
+    background-color:wheat;
+    text-align:center;
+   
+    }
+    
+    .content{
+      text-align:center;
+      background-color:white;
+      width:75%;
+      height:50%;
+      font-size:16px;
+      border:10px solid black;
+      padding:30px;
+      margin:10px;
+      
+    }
+        
+    a{
+      color:crimson;
+      border:3px solid red;
+      margin:20px;
+      padding:2px;
+    }
+    
